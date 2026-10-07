@@ -5,4 +5,13 @@
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
   - "DOMAIN-SUFFIX,nas.u2945343.nyat.app,DIRECT"
   - "DOMAIN-SUFFIX,cccseal.com,DIRECT"
-  - "DOMAIN-SUFFIX,ptwork.top,DIREC"
+  - "DOMAIN-SUFFIX,ptwork.top,DIRECT"
+
+dns:
+  fake-ip-filter+:
+    - "*.baidu.com"
+    - "*.tencent.com"
+    - "*.u2945343.nyat.app"
+    - "*.cccseal.com"
+    - "*.ptwork.top"
+
