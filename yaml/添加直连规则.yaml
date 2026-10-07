@@ -3,6 +3,6 @@
 +rules:
   - "DOMAIN-SUFFIX,baidu.com,DIRECT"
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
-  - DOMAIN-SUFFIX,nas.u2945343.nyat.app,DIRECT
-  - DOMAIN-SUFFIX,cccseal.com,DIRECT
-  - DOMAIN-SUFFIX,ptwork.top,DIREC
+  - "DOMAIN-SUFFIX,nas.u2945343.nyat.app,DIRECT"
+  - "DOMAIN-SUFFIX,cccseal.com,DIRECT"
+  - "DOMAIN-SUFFIX,ptwork.top,DIREC"
